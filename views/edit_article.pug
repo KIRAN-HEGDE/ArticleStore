@@ -1,0 +1,15 @@
+extends layout 
+block content 
+  h1.my-2 #{title}
+  form(method='POST', action='/articles/edit/' + article._id)
+    #form-group
+      label Title:
+      input.form-control(name='title', type='Text' value=article.title)
+    #form-group
+      label Author:
+      input.form-control(name='author', type='Text' value=article.author)
+    #form-group
+        label Description:
+        textarea.form-control(name='body')= article.body
+    
+    input.btn.btn-primary.mt-2(type='submit', value="Submit")

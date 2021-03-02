@@ -1,0 +1,3 @@
+G:\NODE TUTORIALS\Node and express\node-express\obj\Debug\node-express.njsprojAssemblyReference.cache
+G:\NODE TUTORIALS\Node and express\node-express\obj\Debug\node-express.njsproj.CoreCompileInputs.cache
+G:\NODE TUTORIALS\Node and express\node-express\bin\Microsoft.NodejsTools.WebRole.dll

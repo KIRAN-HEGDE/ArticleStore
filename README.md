@@ -8,7 +8,7 @@ Simply clone this repository or download as Zip  to your desktop.
   <li> Start a local development server using command <code> npm start </code></li>
 </ol>
 
- ### Features
+ ## Features
 <ol>
   <li> Create and Read articles on the go</li>
   <li>  express error handling methods.</li>

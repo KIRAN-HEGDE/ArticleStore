@@ -11,6 +11,6 @@ Simply clone this repository or download as Zip  to your desktop.
  ## Features
 <ol>
   <li> Create and Read articles on the go</li>
-  <li>  express error handling methods.</li>
+  <li>  express error handling middlewares.</li>
   <li>  express validate to validate articles upload.</li>
 </ol>

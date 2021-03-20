@@ -4,8 +4,8 @@ A Simple Blog Application using Node and Express.
 Simply clone this repository or download as Zip  to your desktop.
 ## Setup
 <ol>
-  <li>Run <code> npm install </code> to download all the requirements.</li>
-  <li> Start a local development server using command <code> npm start </code></li>
+  <li>Run <code> npm install</code> to download all the requirements.</li>
+  <li> Start a local development server using command <code> npm start</code></li>
 </ol>
 
  ## Features
